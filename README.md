@@ -29,5 +29,9 @@ Real-Life Applications:
 - Factories and production lines: Machines often use counters to track how many items have been produced or how many times a process has run.
 
 - Sports and fitness: Think of lap counters in swimming or step counters in fitness devices — the principle is the same.
-- 
+  
 - Consumer electronics: Remote controls, calculators, and gaming consoles all rely on button press counters internally to make sure every press is registered.
+
+  *OUTPUT*:
+  
+  <img width="1040" height="697" alt="Image" src="https://github.com/user-attachments/assets/48e22bb0-3c6b-424b-b75d-0039c7df4ffa" />
